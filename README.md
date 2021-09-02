@@ -1,5 +1,5 @@
 # Django Migrations Remover
-This code is written to automate the task of removing django migrations and the default database. After removing, it will automatically create new migrations and migrate it. 
+This code is written to automate the task of removing Django migrations and the default database. After removing, it will automatically create new migrations and migrate them. 
 
 **Note: This does not remove the `migrations` folder and the `__init__.py` because it could cause errors.**
 
